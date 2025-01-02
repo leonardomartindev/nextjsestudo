@@ -20,6 +20,7 @@ export default async function Home() {
         
       </div>
 
+          <h2>Novo titulo na versão preview feature</h2>
     </div>
   );
 }
