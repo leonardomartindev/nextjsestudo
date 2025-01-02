@@ -1,0 +1,12 @@
+:root {
+    --main-color: #3498db;
+    --secondary-color: #2ecc71;
+    --font-size: 16px;
+  }
+
+body {
+    padding: 20px 20px 60px;
+    max-width: 680px;
+    margin: 0 auto;
+}
+
